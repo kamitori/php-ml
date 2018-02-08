@@ -1,0 +1,7 @@
+{
+    "name": "admin/public",
+    "require": {
+        "nesbot/carbon": "^1.22",
+        "phpoffice/phpspreadsheet": "^1.1"
+    }
+}
